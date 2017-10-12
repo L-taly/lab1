@@ -1,4 +1,4 @@
-import com.sun.org.apache.xerces.internal.xs.StringList;
+﻿import com.sun.org.apache.xerces.internal.xs.StringList;
 import jdk.nashorn.internal.ir.WhileNode;
 
 import java.io.*;
@@ -6,6 +6,7 @@ import java.util.*;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
+//gittest//
 public class Main {
     public static void main(String[] args){
         String REGEX = "\\b[^a-z]+";
