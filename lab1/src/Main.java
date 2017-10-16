@@ -106,7 +106,11 @@ public class Main {
                             }
                         }
                     }
+<<<<<<< HEAD
                     ////////
+=======
+                    //////////
+>>>>>>> b2
                     catch (IOException e)
                     {
                         e.getStackTrace();
